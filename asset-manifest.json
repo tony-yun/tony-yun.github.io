@@ -1,17 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.e27d69b6.css",
-    "main.js": "/static/js/main.833ece98.js",
+    "main.js": "/static/js/main.deb59408.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/metravel.png": "/static/media/metravel.93a1bde78563823f0aba.png",
     "static/media/wateraiCamera.png": "/static/media/wateraiCamera.e5e3047881330a7a0fbc.png",
     "static/media/me.png": "/static/media/me.014587aeabdc33c43dc5.png",
-    "static/media/emotion.png": "/static/media/emotion.eabfc16e7a146ab15778.png",
-    "static/media/suicide.png": "/static/media/suicide.9c86cd7138a398c45fa5.png",
     "static/media/smallWateraiCollector.png": "/static/media/smallWateraiCollector.5951c51cdf1428a1ad6c.png",
     "static/media/smallBbeego.png": "/static/media/smallBbeego.1d3cb8a8caff6ab5f5af.png",
+    "static/media/ncnc-appstore.jpeg": "/static/media/ncnc-appstore.707699727ceb598d5229.jpeg",
+    "static/media/TaewoongYunRNDeveloper.pdf": "/static/media/TaewoongYunRNDeveloper.8abcfb38cd00857c4db0.pdf",
     "static/media/smallDataControl.png": "/static/media/smallDataControl.9c16446ccde2e2487531.png",
-    "static/media/TaeWoongYunPortfolio.pdf": "/static/media/TaeWoongYunPortfolio.480368579c8e31cfde1d.pdf",
     "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/wateraiInfo.png": "/static/media/wateraiInfo.7e3b0fbcbf19d7ae5c39.png",
     "static/media/floodforecast.png": "/static/media/floodforecast.643e22e4582e89ec34d1.png",
@@ -25,11 +24,11 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.e27d69b6.css.map": "/static/css/main.e27d69b6.css.map",
-    "main.833ece98.js.map": "/static/js/main.833ece98.js.map",
+    "main.deb59408.js.map": "/static/js/main.deb59408.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e27d69b6.css",
-    "static/js/main.833ece98.js"
+    "static/js/main.deb59408.js"
   ]
 }
